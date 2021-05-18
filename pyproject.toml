@@ -51,6 +51,10 @@ readme = "README.md"
 repository = "https://github.com/chrismaille/subdivisions"
 keywords = ["pubsub"]
 license = "GPL-3.0"
+packages = [
+    { include = "subdivisions" },
+    { include = "subdivisions/**/*.py" },
+]
 
 [tool.subdivisions]
 source_name = "Subdivisions"
