@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.1 (2021-05-18)
+### Fix
+* Project name error on poetry build ([`cc7e74b`](https://github.com/chrismaille/subdivisions/commit/cc7e74b521b3283afa7bf7b8a7b45598e7102865))
+
 ## v1.0.0 (2021-05-18)
 ### Feature
 * First public release ([`de4ba48`](https://github.com/chrismaille/subdivisions/commit/de4ba48a99d792bb41a7f87088e68ffea79e7723))
