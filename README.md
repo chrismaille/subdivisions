@@ -14,7 +14,7 @@
 1. Install subdivisions
 
 ```shell
-$ pip install sub.divisions
+$ pip install sub-divisions
 ```
 
 ### Configure Project
