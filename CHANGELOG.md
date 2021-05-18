@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.2 (2021-05-18)
+### Fix
+* Add missing package poetry config ([`3e08868`](https://github.com/chrismaille/subdivisions/commit/3e08868362b46b21aa5168278887e86c8572cf29))
+
 ## v1.0.1 (2021-05-18)
 ### Fix
 * Project name error on poetry build ([`cc7e74b`](https://github.com/chrismaille/subdivisions/commit/cc7e74b521b3283afa7bf7b8a7b45598e7102865))
