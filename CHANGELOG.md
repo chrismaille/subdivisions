@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.0 (2021-05-18)
+### Feature
+* First public release ([`de4ba48`](https://github.com/chrismaille/subdivisions/commit/de4ba48a99d792bb41a7f87088e68ffea79e7723))
+
+### Breaking
+* First public release. Highlights: ([`de4ba48`](https://github.com/chrismaille/subdivisions/commit/de4ba48a99d792bb41a7f87088e68ffea79e7723))
+
 ## v1.2.1 (2021-05-17)
 ### Fix
 * New events ([`a96c6d2`](https://github.com/access55/subdivisions/commit/a96c6d22d550f33fb4fb4a63c3f32f7ee3738b32))
